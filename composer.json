@@ -1,0 +1,17 @@
+{
+    "name": "armen9696/phpush",
+    "description": "PHP Package to send push notifications",
+    "minimum-stability": "stable",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Armen Davtyan",
+            "email": "armen.davtian1@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "PHPush": "src/"
+        }
+    }
+}
